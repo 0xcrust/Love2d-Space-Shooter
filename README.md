@@ -1,2 +1,3 @@
 # Love2d-Space-Shooter
-experimenting with making a low-scale game with love2d and lua
+incomplete. a love2d and lua experiment that I abandoned and only remembered recently.
+
